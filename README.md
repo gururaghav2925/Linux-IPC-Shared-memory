@@ -144,6 +144,7 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 
 ## $ipcs
 
+![Screenshot from 2024-04-14 11-35-33](https://github.com/gururaghav2925/Linux-IPC-Shared-memory/assets/151489500/75520101-ae20-43e2-b005-194b4d7175eb)
 
 
 
